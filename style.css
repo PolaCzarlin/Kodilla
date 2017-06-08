@@ -8,7 +8,7 @@ body {
 	padding-top: 200px;
 	font-family: Quicksand;
 }
-/*
+
 header{
 	width: 100%;
 	background-color:#313234;
@@ -18,7 +18,7 @@ header{
 	top: 0;
 
 } 
-/*START OF NAVIGATION BAR
+/*START OF NAVIGATION BAR*/
 nav, .nav-content{
 	max-width: 1200px;
 	margin: 0 auto;
@@ -54,9 +54,9 @@ header > nav >.nav-content> ul > li > a{
  .color:hover{
 	color:white;
 }
-/* LOGO
+/* LOGO*/
 .nav-content img{
 	padding: 20px 20px;
 }
-	*/
+	
 
